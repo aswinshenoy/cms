@@ -1,6 +1,6 @@
 
 ![amfoss-cms-cover](https://user-images.githubusercontent.com/21276922/51844359-12628580-233b-11e9-891a-d4d826bd1d6e.png)
-# amFOSS CMS
+# Workshop
 [![Watchers][watchers-badge]][watchers]
 [![Star Gazers][stars-badge]][stargazers]
 [![Forks][forks-badge]][forks]
